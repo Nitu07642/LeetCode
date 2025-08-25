@@ -3,7 +3,12 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        for i in range(k):
-            last_element=nums.pop()
-            nums.insert(0,last_element)
-        return nums    
+        n = len(nums)
+        if n == 0:
+            return
+        k = k % n
+        
+        nums[n-k:] = nums[n-k:][::-1]
+        
+        nums[:n-k] = nums[:n-k][::-1]
+        nums.reverse()
