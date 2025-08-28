@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nitu07642/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nitu07642/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Nitu07642/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Nitu07642/LeetCode/tree/master/0561-array-partition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nitu07642/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Nitu07642/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Nitu07642/LeetCode/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/Nitu07642/LeetCode/tree/master/0561-array-partition) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nitu07642/LeetCode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Nitu07642/LeetCode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Nitu07642/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
